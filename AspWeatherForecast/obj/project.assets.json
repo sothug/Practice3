@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TEMP\\Projects\\VueWeatherForecast\\AspWeatherForecast\\AspWeatherForecast.csproj",
+      "projectUniqueName": "D:\\TEMP\\Projects\\Practice3\\AspWeatherForecast\\AspWeatherForecast.csproj",
       "projectName": "AspWeatherForecast",
-      "projectPath": "D:\\TEMP\\Projects\\VueWeatherForecast\\AspWeatherForecast\\AspWeatherForecast.csproj",
+      "projectPath": "D:\\TEMP\\Projects\\Practice3\\AspWeatherForecast\\AspWeatherForecast.csproj",
       "packagesPath": "C:\\Users\\egorg\\.nuget\\packages\\",
-      "outputPath": "D:\\TEMP\\Projects\\VueWeatherForecast\\AspWeatherForecast\\obj\\",
+      "outputPath": "D:\\TEMP\\Projects\\Practice3\\AspWeatherForecast\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\egorg\\AppData\\Roaming\\NuGet\\NuGet.Config",
