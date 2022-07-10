@@ -533,5 +533,5 @@ yarn-error.log
 # End of https://www.toptal.com/developers/gitignore/api/csharp,vuejs,aspnetcore
 
 /.vs
-/AspWeatherForecast/bin
-/AspWeatherForecast/obj
+/backend/bin
+/backend/obj
