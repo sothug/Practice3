@@ -1,4 +1,4 @@
-namespace AspWeatherForecast
+namespace backend
 {
     public class WeatherForecast
     {
